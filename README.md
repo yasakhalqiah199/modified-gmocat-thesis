@@ -2,10 +2,10 @@
 
 **Master's Thesis Project**  
 **Author:** Yasa Khalqiah  
-**Institution:** [Your University]  
+**Institution:** Gadjah Mada University  
 **Year:** 2026
 
-## 📊 Research Overview
+## Research Overview
 
 This repository contains the implementation of **Modified GMOCAT** - an enhanced Computerized Adaptive Testing (CAT) system that significantly improves knowledge concept coverage through three key modifications:
 
@@ -20,7 +20,7 @@ This repository contains the implementation of **Modified GMOCAT** - an enhanced
 3. **Adaptive Diversity Weight**  
    Dynamic diversity bonus for question selection to prevent overfitting and improve generalization
 
-## 🎯 Main Results
+## Main Results
 
 ### Overall Performance (Seed 42, 50 Epochs):
 - **Baseline (Wang et al., 2023):** COV@20 = 0.5130
