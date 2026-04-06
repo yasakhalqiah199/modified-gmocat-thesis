@@ -1,0 +1,2 @@
+2026-02-20 15:04:38,016 - train/val/test size: 793, 99,99
+2026-02-20 15:04:38,224 - Could not fully load checkpoint models/dbekt22/NCD_dbekt22_20.pt: 'NCDModel' object has no attribute 'state_dict'

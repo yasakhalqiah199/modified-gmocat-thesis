@@ -1,0 +1,19 @@
+# PyTorch (CUDA 12.1)
+torch==2.2.0
+torchvision
+torchaudio
+
+# DGL (Deep Graph Library)
+dgl==2.2.1
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+
+# Additional dependencies
+torchdata
+pyyaml
+pydantic
+vegas
