@@ -38,14 +38,14 @@ This repository contains the implementation of **Modified GMOCAT** - an enhanced
 
 **Synergy Effect:** +2.8% gain from combining all three modifications
 
-## 🔬 Key Findings
+## Key Findings
 
 1. **Coverage-Aware Reward** is the dominant contributor (97.2% retention), driving fast and consistent coverage growth
 2. **UBT** provides highest AUC (0.6178) through uncertainty-based quality focus, though minimal test length reduction
 3. **Adaptive Diversity** maintains high accuracy despite lowest coverage - supporting role for generalization
 4. **Temporal Analysis** reveals fundamental trade-off: Coverage strategy (breadth) vs UBT strategy (prediction quality)
 
-## 📁 Project Structure
+## Project Structure
 cd ~/thesis-backup
 
 cat > .gitignore << 'EOF'
